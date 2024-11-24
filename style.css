@@ -1,0 +1,33 @@
+.navber{
+    
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+width: 100%;
+}
+.navitem{
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+width: 30%;
+}
+
+button{
+    background-color: aqua;
+    color: blue;
+}
+.image{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+}
+.hello{
+    display: flex;
+    gap: 70px;
+}
+
+.image{
+    justify-content: space-between;
+    padding: 200px;
+}
